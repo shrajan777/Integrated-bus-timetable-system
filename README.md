@@ -1,4 +1,4 @@
-# Integrated Bus Time Table System (CS146–CS161)
+# Integrated Bus Time Table System
 
 This is a simple SEPM assignment-level demo.
 Folders:
